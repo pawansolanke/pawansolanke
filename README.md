@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - [![MasterHead](https://github.com/pawansolanke/pawansolanke/blob/main/header.png)](https://github.com/pawansolanke)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansolanke&show_icons=true&theme=transparent)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansolanke&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawansolanke&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pawansolanke&repo=convoychat" />
+- <a href="https://github-readme-stats.vercel.app/api?username=pawansolanke&show_icons=true&theme=transparent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansolanke&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
