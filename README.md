@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - [![MasterHead](https://github.com/pawansolanke/pawansolanke/blob/main/header.png)](https://github.com/pawansolanke)
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawansolanke)](https://git.io/streak-stats)
+- ![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
