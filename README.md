@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - [![MasterHead](https://github.com/pawansolanke/pawansolanke/blob/main/header.png)](https://github.com/pawansolanke)
-- ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansolanke&show_icons=true&theme=transparent)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansolanke&hide_progress=true&theme=transparent)]
 - <a href="https://github.com/pawansolanke/pawansolanke">
   <img align="left" src="https://camo.githubusercontent.com/cb5d0c144759eb8a9aa539ffcd42d7ab79d7f80887b3a7b523a8d48093506bdd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d706177616e736f6c616e6b652673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e74" />
 </a>
