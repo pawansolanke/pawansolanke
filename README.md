@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - [![MasterHead](https://github.com/pawansolanke/pawansolanke/blob/main/header.png)](https://github.com/pawansolanke)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pawansolanke)](https://git.io/streak-stats)
