@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - [![MasterHead](https://github.com/pawansolanke/pawansolanke/blob/main/header.png)](https://github.com/pawansolanke)
 - ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pawansolanke&show_icons=true&theme=transparent)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansolanke&hide_progress=true)](https://github.com/pawansolanke/pawansolanke)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawansolanke&hide_progress=true&theme=transparent)]
